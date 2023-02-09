@@ -1,1 +1,1 @@
-list all files incl hidden
+read all in numerical order incl hidden
