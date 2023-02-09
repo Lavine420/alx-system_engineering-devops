@@ -1,1 +1,1 @@
-list files long
+list all files incl hidden
