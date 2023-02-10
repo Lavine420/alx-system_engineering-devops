@@ -1,1 +1,1 @@
-execute permission for all in sub dir
+execute all except normal files for everyone
