@@ -1,1 +1,1 @@
-execute all except normal files for everyone
+create my dir with permissions 751
