@@ -1,1 +1,1 @@
-create my dir with permissions 751
+hello file owner change to school
