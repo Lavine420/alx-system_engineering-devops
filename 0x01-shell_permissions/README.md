@@ -1,1 +1,1 @@
-adding execute for owner
+execute for owner and group,read others
