@@ -1,1 +1,1 @@
-setting file mode
+set mode hello as olleh

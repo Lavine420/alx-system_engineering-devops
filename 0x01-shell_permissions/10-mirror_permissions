@@ -1,0 +1,3 @@
+#!/bin/bash
+cmhod --reference-olleh hello
+
