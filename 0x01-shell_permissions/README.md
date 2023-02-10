@@ -1,1 +1,1 @@
-execute for owner and group,read others
+execution for all
