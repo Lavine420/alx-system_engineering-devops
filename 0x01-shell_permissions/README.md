@@ -1,1 +1,1 @@
-set mode hello as olleh
+execute permission for all in sub dir
