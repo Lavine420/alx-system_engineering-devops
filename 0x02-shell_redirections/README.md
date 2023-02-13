@@ -1,1 +1,1 @@
-displaying pattern lines in root
+displaying lines with pattern bin
