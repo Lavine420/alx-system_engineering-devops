@@ -1,1 +1,1 @@
-display all not containing patern bin
+display all files with a letter
