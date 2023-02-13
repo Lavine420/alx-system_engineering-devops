@@ -1,1 +1,1 @@
-writing a confused smiley
+showing contents of file
