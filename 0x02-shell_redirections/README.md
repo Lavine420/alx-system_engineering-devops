@@ -1,1 +1,1 @@
-prints words that only appear once
+displaying pattern lines in root
