@@ -1,1 +1,1 @@
-make a count
+displaying 10 newest lines
