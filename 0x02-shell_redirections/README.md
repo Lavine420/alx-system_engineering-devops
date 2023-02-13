@@ -1,1 +1,1 @@
-display all files with a letter
+remove all letters c and C
