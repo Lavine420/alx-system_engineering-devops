@@ -1,1 +1,1 @@
-displaying 10 newest lines
+prints words that only appear once
