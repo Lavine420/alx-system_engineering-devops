@@ -1,1 +1,1 @@
-displaying lines with pattern bin
+displaying lines containing pattern root and 3 after
