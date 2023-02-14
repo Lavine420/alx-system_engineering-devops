@@ -1,1 +1,1 @@
-script printing hello user were user is current Linux user
+adding action to path and putting last when looking for a program
