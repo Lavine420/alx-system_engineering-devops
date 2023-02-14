@@ -1,1 +1,1 @@
-display result of Breath to the power Love
+displaying the result of breath to the power of love
