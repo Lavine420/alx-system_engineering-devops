@@ -1,1 +1,1 @@
-displaying the result of breath to the power of love
+converting from base 2 to base 10 variable BINARY
