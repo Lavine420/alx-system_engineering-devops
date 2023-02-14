@@ -1,1 +1,1 @@
-adding action to path and putting last when looking for a program
+counting directories in path
