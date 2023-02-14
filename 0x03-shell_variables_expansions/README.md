@@ -1,1 +1,1 @@
-create alias named ls with value rm *
+script printing hello user were user is current Linux user
