@@ -1,1 +1,1 @@
-counting directories in path
+listing enviromental variables
